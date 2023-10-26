@@ -4,7 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with create-next-a
 
 Use this template to start developing with Sitecore Blok with the Next.js 13 (pages router)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/markvanaalst/blok-starter-next13-pages)
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/markvanaalst/blok-starter-next13-pages)
 
 
