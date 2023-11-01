@@ -4,8 +4,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with create-next-a
 
 Use this template to start developing with Sitecore Blok with the Next.js 13 (pages router)
 
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/markvanaalst/blok-starter-next13-pages)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/markvanaalst/blok-starter-next)
 
+
+## Use the template
+```bash
+npx create-next-app -e https://github.com/markvanaalst/blok-starter-next
+# or
+yarn create-next-app -e https://github.com/markvanaalst/blok-starter-next
+# or
+pnpm create-next-app -e https://github.com/markvanaalst/blok-starter-next
+```
 
 ## Installation
 Install the prerequisites:
@@ -18,8 +27,7 @@ yarn install
 pnpm install
 ```
 
-
-## Getting Started
+## Getting Started / Run the application
 
 First, run the development server:
 
